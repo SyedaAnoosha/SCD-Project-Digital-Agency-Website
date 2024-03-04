@@ -1,9 +1,3 @@
-::selection {
-    background-color:#99a9bb;
-    color: #FFF
-}
-
-
 .btn{
   padding: 18px 50px;
   font-size: 20px;
@@ -16,7 +10,6 @@
   z-index: 2;
   text-decoration: none !important;
 }
-
 .btn-default {
   background: linear-gradient(to right, #504cf5, #2d2c8f)!important;
   color: #fff !important;
