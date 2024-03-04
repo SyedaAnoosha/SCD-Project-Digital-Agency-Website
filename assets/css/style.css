@@ -280,8 +280,6 @@ img{
   font-family: Georgia, 'Times New Roman', Times, serif; 
   line-height: 40px;
 }
-
-
 .service-top{
   text-align: center;
   visibility: visible;
@@ -328,10 +326,9 @@ img{
   font-weight: 400;
   display: block;
   letter-spacing: 0.15px;
-}
-
+} 
 .service-1{
-  border: 1px solid rgba(90,122,190,0.08);
+  border: 1px solid rgba(106, 130, 184, 0.08);
   box-shadow: 0 3px 0 0 rgba(90,122,190,0.12);
   background-color: #eeeeee;
   padding: 30px 15px 30px 20px;
@@ -342,10 +339,10 @@ img{
   text-align: left;
 }
 .section-heading h4 {
-    font-size: 30px;
-    line-height: normal;
-        position: relative;
-        padding-bottom: 20px;
+  font-size: 30px;
+  line-height: normal;
+  position: relative;
+  padding-bottom: 20px;
 }
 .section-heading h4:after {
     content: '';
