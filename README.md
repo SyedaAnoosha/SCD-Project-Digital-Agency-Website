@@ -6,7 +6,6 @@ MAK Agency
 ## Technologies Used:
 - HTML
 - CSS & Bootstrap
-- JavaScript
 
 ## Pages:
 - Home
